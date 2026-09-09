@@ -53,7 +53,6 @@ AI and Machine Learning Applications", 2025.
 
 DOI: https://doi.org/10.5281/zenodo.18527396
 
-
 ## License
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
