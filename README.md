@@ -1,5 +1,10 @@
 # Formalization of a Nuclear Power Plant Life-Cycle Model for AI and Machine Learning Applications
 
+## Author
+
+**Yuriy Dmitrishin**  
+Personal website: [https://dmitrishin.github.io/](https://dmitrishin.github.io/)
+
 ## Overview
 
 This work presents a formal, research-oriented model designed to support
