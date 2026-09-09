@@ -40,7 +40,8 @@ complex engineering systems.
 
 ## Paper
 
-[Download the full paper](Dmitrishin_2025_NPP_Lifecycle_AI_ML_Model.pdf)
+- [Full paper](Dmitrishin_2025_NPP_Lifecycle_AI_ML_Model.pdf)
+- [Summary](summary.pdf)
 
 ## Citation
 
