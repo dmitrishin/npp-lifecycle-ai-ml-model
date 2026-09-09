@@ -53,8 +53,6 @@ AI and Machine Learning Applications", 2025.
 
 DOI: https://doi.org/10.5281/zenodo.18527396
 
-GitHub also provides citation metadata through the
-[CITATION.cff](CITATION.cff) file.
 
 ## License
 
