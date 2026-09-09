@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite the original publication."
 
-title: "NPP Life-Cycle AI/ML Model"
+title: "Formalization of a Nuclear Power Plant Life-Cycle Model for AI and Machine Learning Applications"
 authors:
   - family-names: "Dmitrishin"
     given-names: "Yuriy"
@@ -16,4 +16,4 @@ preferred-citation:
       given-names: "Yuriy"
   title: "Formalization of a Nuclear Power Plant Life-Cycle Model for AI and Machine Learning Applications"
   year: 2025
-  doi: "doi.org/10.5281/zenodo.18527396"
+  doi: "10.5281/zenodo.18527396"
